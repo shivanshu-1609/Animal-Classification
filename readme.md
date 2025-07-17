@@ -102,7 +102,7 @@ Zebra: 137 images
 - Accuracy vs Epoch
 - Loss vs Epoch
 
-![Accuracy & Loss Graph](#)
+![Accuracy & Loss Graph](loss&accuracy.png)
 
 ---
 
@@ -194,21 +194,17 @@ jupyter notebook animal_classification.ipynb
 
 ---
 
-## 🙋 Author
+## 🙋‍♂️ Author
 
-**Shivanshu Shukla**  
-📧 [shivanshu1609@gmail.com](mailto:shivanshu1609@gmail.com)  
-🌐 GitHub: [@shivanshu-1609](https://github.com/shivanshu-1609)
-
----
-
-## ⭐ Support
-
-If you found this helpful, please give it a ⭐ on GitHub and share it!
+👨‍💻 **Shivanshu Shukla**  
+BTech | AI & ML Enthusiast  
+GitHub: [@shivanshu-1609](https://github.com/shivanshu-1609)
 
 ---
 
-## 🪪 License
+## 🌐 Connect
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+If you liked the project, leave a ⭐ on the repo!  
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/shivanshu-shukla16/) for feedback, collaborations, or queries.
 
+---
